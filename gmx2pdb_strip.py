@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-gmx2pdb_select.py
+gmx2pdb_strip.py
 
 Description:
     Convert GROMACS .gro structures to PDB, then filter the resulting PDB to include only:
