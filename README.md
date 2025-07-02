@@ -1,6 +1,6 @@
 # GromacsTools
 
-**GromacsTools** is an open-source collection of Python scripts designed to streamline and document common GROMACS-based workflows in structural biology and molecular dynamics research. Each script encapsulates a specific step—conversion, selection, analysis, or reporting—allowing users to adapt, extend, or repurpose code for their own pipelines. While GromacsTools is not intended as a commercial product or “finished” software package, it provides transparent, reusable building blocks and preserves the provenance of your research steps for reproducibility and publication.
+**GromacsTools** is an open-source collection of Python scripts designed to streamline and document common GROMACS-based workflows in structural biology and molecular dynamics research. Each script encapsulates a specific step—conversion, selection, analysis, or reporting—allowing users to adapt, extend, or repurpose code for their own pipelines.
 
 ---
 
